@@ -1,5 +1,5 @@
 ![header](github-header-banner.png)
-Hi everyone my name is Bayu. I love to making something new, if you want to colab just say it to me.
+#### Hi everyone my name is Bayu. I love to making something new, if you want to colab just say it to me.
 
 ## Language
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
