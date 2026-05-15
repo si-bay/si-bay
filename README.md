@@ -25,7 +25,7 @@ Hi everyone my name is Bayu. I love to making something new, if you want to cola
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
 </div>
 
-###
+## Music
 
 <div align="center">
   <a href="https://open.spotify.com/user/ubay">
@@ -33,26 +33,26 @@ Hi everyone my name is Bayu. I love to making something new, if you want to cola
   </a>
 </div>
 
-###
+## My Stats
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/si-bay/si-bay/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/si-bay/si-bay/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
-###
+## Snake 
 
 <img src="https://raw.githubusercontent.com/si-bay/si-bay/snake-output/snake.svg" alt="Snake animation" />
 
-###
+## Pacman
 
-<picture>
+picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/si-bay/si-bay/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/si-bay/si-bay/pacman-output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/si-bay/si-bay/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
-###
+## Views
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=si-bay.si-bay&"  />
