@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://link-ke-gif-kamu.gif" width="100%" alt="Deskripsi">
+</div>
 
 <!--
 **si-bay/si-bay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="<img src="https://link-ke-gif-kamu.gif" width="500" alt="Deskripsi">" width="500" alt="Deskripsi">
+
