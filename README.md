@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://link-ke-gif-kamu.gif" width="100%" alt="Deskripsi">
+  <img src="[https://link-ke-gif-kamu.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMml6bzRtazJwY21mOThjM2xhcmc4MHhieWFlank0dHZ2dGQxeWlmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8wNLwk2GbzfAxB0yt5/giphy.gif)" width="100%" alt="Deskripsi">
 </div>
 
 <!--
