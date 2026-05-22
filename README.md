@@ -20,7 +20,7 @@
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31v6vuknzsknvryv67w5wdwbojlm&count={count})
+![](https://spotify-recently-played-readme.vercel.app/api?user=31v6vuknzsknvryv67w5wdwbojlm)
 
 ###
 
